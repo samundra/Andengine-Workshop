@@ -1,7 +1,6 @@
-andengine_workshop
-==================
+<h1>AndEngine Workshop</h1>
 
-The repository contains all the source code for the simple game that was developed during the session of andengine by Reetesh at YIPL.
+This repository contains all the source code for the simple game that was developed during the session of andengine by Reetesh at YIPL.
 
 The source code is fully functional contains the sprites code, that can animate the sprites. 
 - Added the MenuItem listener for creating menus in Game Development
